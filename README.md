@@ -1,7 +1,6 @@
 # 🐍 Python Fundamentals – SkillStack Paths Training
 
-![Gaza Sky Geeks Logo]([GSG-Logo.jpg](https://github.com/Deema-AL-Maqadma/Basics/blob/main/GSG_Logo.jpg))
-
+![Gaza Sky Geeks Logo](gsg-logo.png)
 This repository contains the Fundamentals part of the training program  
 SkillStack Paths (Fundamentals and Data Structures and Algorithms part)  
 conducted by Gaza Sky Geeks.  
